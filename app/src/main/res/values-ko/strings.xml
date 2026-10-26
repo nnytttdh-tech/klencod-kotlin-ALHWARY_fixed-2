@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">안녕하세요</string>
+    <string name="welcome">ALHWARY에 오신 것을 환영합니다</string>
+    <string name="chats">채팅</string>
+    <string name="status">상태</string>
+    <string name="calls">통화</string>
+    <string name="settings">설정</string>
+    <string name="search">검색</string>
+    <string name="new_chat">새 채팅</string>
+    <string name="type_message">메시지 입력</string>
+    <string name="send">보내기</string>
+    <string name="online">온라인</string>
+    <string name="offline">오프라인</string>
+    <string name="last_seen">마지막 접속</string>
+    <string name="language">언어</string>
+    <string name="profile">프로필</string>
+    <string name="logout">로그아웃</string>
+</resources>

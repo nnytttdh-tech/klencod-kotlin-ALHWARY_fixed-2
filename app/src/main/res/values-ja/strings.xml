@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">こんにちは</string>
+    <string name="welcome">ALHWARYへようこそ</string>
+    <string name="chats">チャット</string>
+    <string name="status">ステータス</string>
+    <string name="calls">通話</string>
+    <string name="settings">設定</string>
+    <string name="search">検索</string>
+    <string name="new_chat">新しいチャット</string>
+    <string name="type_message">メッセージを入力</string>
+    <string name="send">送信</string>
+    <string name="online">オンライン</string>
+    <string name="offline">オフライン</string>
+    <string name="last_seen">最終オンライン</string>
+    <string name="language">言語</string>
+    <string name="profile">プロフィール</string>
+    <string name="logout">ログアウト</string>
+</resources>

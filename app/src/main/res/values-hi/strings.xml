@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">नमस्ते</string>
+    <string name="welcome">ALHWARY में आपका स्वागत है</string>
+    <string name="chats">चैट</string>
+    <string name="status">स्थिति</string>
+    <string name="calls">कॉल</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="search">खोजें</string>
+    <string name="new_chat">नई चैट</string>
+    <string name="type_message">संदेश लिखें</string>
+    <string name="send">भेजें</string>
+    <string name="online">ऑनलाइन</string>
+    <string name="offline">ऑफ़लाइन</string>
+    <string name="last_seen">अंतिम बार देखा गया</string>
+    <string name="language">भाषा</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="logout">लॉग आउट</string>
+</resources>

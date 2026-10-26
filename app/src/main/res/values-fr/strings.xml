@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">Bonjour</string>
+    <string name="welcome">Bienvenue sur ALHWARY</string>
+    <string name="chats">Discussions</string>
+    <string name="status">Statut</string>
+    <string name="calls">Appels</string>
+    <string name="settings">Paramètres</string>
+    <string name="search">Rechercher</string>
+    <string name="new_chat">Nouvelle discussion</string>
+    <string name="type_message">Écrire un message</string>
+    <string name="send">Envoyer</string>
+    <string name="online">En ligne</string>
+    <string name="offline">Hors ligne</string>
+    <string name="last_seen">Dernière connexion</string>
+    <string name="language">Langue</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Déconnexion</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">Halo</string>
+    <string name="welcome">Selamat datang di ALHWARY</string>
+    <string name="chats">Obrolan</string>
+    <string name="status">Status</string>
+    <string name="calls">Panggilan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="search">Cari</string>
+    <string name="new_chat">Obrolan baru</string>
+    <string name="type_message">Ketik pesan</string>
+    <string name="send">Kirim</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="last_seen">Terakhir dilihat</string>
+    <string name="language">Bahasa</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Keluar</string>
+</resources>

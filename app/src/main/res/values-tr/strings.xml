@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">Merhaba</string>
+    <string name="welcome">ALHWARY\'ye hoş geldiniz</string>
+    <string name="chats">Sohbetler</string>
+    <string name="status">Durum</string>
+    <string name="calls">Aramalar</string>
+    <string name="settings">Ayarlar</string>
+    <string name="search">Ara</string>
+    <string name="new_chat">Yeni sohbet</string>
+    <string name="type_message">Mesaj yazın</string>
+    <string name="send">Gönder</string>
+    <string name="online">Çevrimiçi</string>
+    <string name="offline">Çevrimdışı</string>
+    <string name="last_seen">Son görülme</string>
+    <string name="language">Dil</string>
+    <string name="profile">Profil</string>
+    <string name="logout">Çıkış yap</string>
+</resources>

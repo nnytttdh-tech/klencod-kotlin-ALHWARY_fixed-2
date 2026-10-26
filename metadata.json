@@ -1,0 +1,6 @@
+{
+  "name": "ALHWARY",
+  "description": "ALHWARY – modern messaging app with multi-language support and AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

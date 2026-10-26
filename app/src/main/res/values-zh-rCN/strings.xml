@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALHWARY</string>
+    <string name="hello">你好</string>
+    <string name="welcome">欢迎使用 ALHWARY</string>
+    <string name="chats">聊天</string>
+    <string name="status">状态</string>
+    <string name="calls">通话</string>
+    <string name="settings">设置</string>
+    <string name="search">搜索</string>
+    <string name="new_chat">新聊天</string>
+    <string name="type_message">输入消息</string>
+    <string name="send">发送</string>
+    <string name="online">在线</string>
+    <string name="offline">离线</string>
+    <string name="last_seen">最后上线</string>
+    <string name="language">语言</string>
+    <string name="profile">个人资料</string>
+    <string name="logout">退出登录</string>
+</resources>
